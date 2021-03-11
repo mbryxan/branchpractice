@@ -10,6 +10,8 @@ namespace mybranchpractice
     {
         static void Main(string[] args)
         {
+
+            public class test;
         }
     }
 }
